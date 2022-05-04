@@ -1,0 +1,59 @@
+{
+  "_buildCommand2" : {
+    "command" : "build",
+    "skipDependencies" : false,
+    "style" : "buildOnly"
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "cfdf1fc89656a9a7ced7fccd94ce78d2708ee8c24c5d44462fcea7a26b13d849"
+    }
+  ],
+  "containerPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/Snake.xcodeproj",
+  "continueBuildingAfterErrors" : false,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Build/Products",
+      "derivedDataPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

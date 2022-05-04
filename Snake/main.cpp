@@ -5,10 +5,27 @@
 //  Created by Eyji Koike Cuff on 4/17/22.
 //
 
-#include <iostream>
+#include "Functions.h"
+#define STOP 0
+#define ESQR 1
+#define DIRT 2
+#define CIMA 3
+#define BAIX 4
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+
+//Global variables
+int FimDoJogo;
+const int Largura = 20;
+const int Altura = 20;
+int X, Y, FrutaX, FrutaY, Pontos, Direcao;
+//Main
+int main() {
+    Inicializa(FimDoJogo, Direcao, STOP, Largura, Altura, X, Y, Pontos, FrutaX, FrutaY);
+    while (!FimDoJogo){
+        Desenha(Largura, Altura, X, Y, FrutaX, FrutaY);
+        //Entrada();
+        //Logica();
+    }
+    //Finaliza();
     return 0;
 }

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>253DBB49-210A-4841-B9D7-6113CA9C8B2C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>253DBB49-210A-4841-B9D7-6113CA9C8B2C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Snake-fwfnyfpcgemexfecfdulxjvvnowa</string>
+			<key>timeStartedRecording</key>
+			<real>673129701.41385305</real>
+			<key>timeStoppedRecording</key>
+			<real>673129701.66437197</real>
+			<key>title</key>
+			<string>Build target Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>253DBB49-210A-4841-B9D7-6113CA9C8B2C</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

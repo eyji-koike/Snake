@@ -1,0 +1,61 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : true,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "cfdf1fc89656a9a7ced7fccd94ce78d2708ee8c24c5d44462fcea7a26b13d849"
+    }
+  ],
+  "containerPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/Snake.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "indexbuild",
+    "activeArchitecture" : "arm64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.3",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "arm64e",
+        "arm64",
+        "x86_64"
+      ],
+      "targetArchitecture" : "arm64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Index/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Index/Build/Products",
+      "derivedDataPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Index/PrecompiledHeaders",
+      "pchPath" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Index/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "INDEX_ARENA_INFO_REGULAR_BUILD_PRODUCTS_DIR" : "/Users/eyjicuff/Library/CloudStorage/OneDrive-Personal/Documentos/IotProject/Snake/DerivedData/Snake/Build/Products",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
