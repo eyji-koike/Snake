@@ -6,6 +6,40 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>1F338C84-F3E5-4FC8-904A-5F5DDB796E6A</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1F338C84-F3E5-4FC8-904A-5F5DDB796E6A.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Snake</string>
+			<key>timeStartedRecording</key>
+			<real>673384854.78498805</real>
+			<key>timeStoppedRecording</key>
+			<real>673384856.03710699</real>
+			<key>title</key>
+			<string>Build Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>1F338C84-F3E5-4FC8-904A-5F5DDB796E6A</string>
+		</dict>
 		<key>AE02D158-6016-4A04-988D-0C9F029F69E5</key>
 		<dict>
 			<key>className</key>

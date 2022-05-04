@@ -6,7 +6,7 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
-		<key>253DBB49-210A-4841-B9D7-6113CA9C8B2C</key>
+		<key>DD6F110A-214D-4670-970D-D7966E6A86D5</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogMajorGroupSection</string>
@@ -15,24 +15,24 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
 			<key>fileName</key>
-			<string>253DBB49-210A-4841-B9D7-6113CA9C8B2C.xcactivitylog</string>
+			<string>DD6F110A-214D-4670-970D-D7966E6A86D5.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
 			<dict>
 				<key>highLevelStatus</key>
-				<string>E</string>
+				<string>W</string>
 			</dict>
 			<key>signature</key>
 			<string>Snake-fwfnyfpcgemexfecfdulxjvvnowa</string>
 			<key>timeStartedRecording</key>
-			<real>673129701.41385305</real>
+			<real>673384855.04836297</real>
 			<key>timeStoppedRecording</key>
-			<real>673129701.66437197</real>
+			<real>673384855.99476504</real>
 			<key>title</key>
 			<string>Build target Snake</string>
 			<key>uniqueIdentifier</key>
-			<string>253DBB49-210A-4841-B9D7-6113CA9C8B2C</string>
+			<string>DD6F110A-214D-4670-970D-D7966E6A86D5</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>
