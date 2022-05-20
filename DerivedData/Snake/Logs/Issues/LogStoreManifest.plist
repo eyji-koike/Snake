@@ -6,6 +6,34 @@
 	<integer>10</integer>
 	<key>logs</key>
 	<dict>
+		<key>49A29EF9-3D66-4C0E-BF44-3FFDC697AEF8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>49A29EF9-3D66-4C0E-BF44-3FFDC697AEF8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>Snake-fasugrltcysxfvabsjtjdxudtcro</string>
+			<key>timeStartedRecording</key>
+			<real>674773228.29029906</real>
+			<key>timeStoppedRecording</key>
+			<real>674773229.00609398</real>
+			<key>title</key>
+			<string>Build target Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>49A29EF9-3D66-4C0E-BF44-3FFDC697AEF8</string>
+		</dict>
 		<key>DD6F110A-214D-4670-970D-D7966E6A86D5</key>
 		<dict>
 			<key>className</key>

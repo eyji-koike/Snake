@@ -26,8 +26,8 @@
 /* Begin PBXFileReference section */
 		46D566AD280CD3B00045ED86 /* Snake */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Snake; sourceTree = BUILT_PRODUCTS_DIR; };
 		46D566B0280CD3B00045ED86 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
-		46D566B8280CD8040045ED86 /* Functions.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; path = Functions.h; sourceTree = "<group>"; usesTabs = 0; };
-		46D566B9280CDBD40045ED86 /* Functions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Functions.cpp; sourceTree = "<group>"; };
+		46D566B8280CD8040045ED86 /* Functions.h */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.h; name = Functions.h; path = Snake/Functions.h; sourceTree = SOURCE_ROOT; usesTabs = 0; };
+		46D566B9280CDBD40045ED86 /* Functions.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; name = Functions.cpp; path = Snake/Functions.cpp; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

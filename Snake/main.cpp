@@ -7,11 +7,6 @@
 
 #include "Functions.h"
 #define STOP 0
-#define ESQR 1
-#define DIRT 2
-#define CIMA 3
-#define BAIX 4
-
 
 //Global variables
 int FimDoJogo;
@@ -20,12 +15,18 @@ const int Altura = 20;
 int X, Y, FrutaX, FrutaY, Pontos, Direcao;
 //Main
 int main() {
+    //This function initializes the game
     Inicializa(FimDoJogo, Direcao, STOP, Largura, Altura, X, Y, Pontos, FrutaX, FrutaY);
     while (!FimDoJogo){
-        Desenha(Largura, Altura, X, Y, FrutaX, FrutaY);
-        //Entrada();
-        //Logica();
+        //This Function Draws the Board
+        Desenha(Largura, Altura, X, Y, FrutaX, FrutaY, Pontos);
+        //This function reads user inputs
+        Entrada(Direcao, FimDoJogo);
+        //This function exceutes the game logic
+        logica(Direcao, Y, X, Largura, Altura, FimDoJogo, FrutaX, FrutaY, Pontos);
+        
     }
-    //Finaliza();
+    //this function finalizes the game
+    finaliza(Pontos);
     return 0;
 }

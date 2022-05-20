@@ -29,7 +29,16 @@
 void Inicializa(bool Sts, int &Dir, int DirIni, int Lar, int Alt, int &X, int &Y, int &Pts, int &FrtX, int &FrtY);
 
 //This Function Draws the Board
-void Desenha(int Lar, int Alt, int x, int y, int FrutaX, int FrutaY);
+void Desenha(int Lar, int Alt, int x, int y, int FrutaX, int FrutaY, int Pts);
 
 //This function clears the screen on mac
 int ClearScreen();
+
+//This function reads user inputs
+void Entrada(int &dir, int &fimdojg);
+
+//This function exceutes the game logic
+void logica(int &dir, int &Y, int &X, int lar, int alt, int &fimdojg, int &FrtX, int &FrtY, int &pts);
+
+//this function finalizes the game
+void finaliza(int pts);
