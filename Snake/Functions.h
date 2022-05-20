@@ -7,11 +7,13 @@
 
 //libraries
 #pragma once
+#include <cstdio>
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
 #include <unistd.h>
 #include <term.h>
+#include <curses.h>
 #include <ncurses.h>
 #include <string.h>
 #include <string>

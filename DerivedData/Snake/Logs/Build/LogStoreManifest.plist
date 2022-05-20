@@ -108,6 +108,74 @@
 			<key>uniqueIdentifier</key>
 			<string>8B60EA29-52D3-40BD-9100-BD85BC321159</string>
 		</dict>
+		<key>8CD51406-F2F7-4802-85CA-84EA6596FAFF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8CD51406-F2F7-4802-85CA-84EA6596FAFF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Snake</string>
+			<key>timeStartedRecording</key>
+			<real>674779837.77031898</real>
+			<key>timeStoppedRecording</key>
+			<real>674779838.71391296</real>
+			<key>title</key>
+			<string>Build Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>8CD51406-F2F7-4802-85CA-84EA6596FAFF</string>
+		</dict>
+		<key>B581E757-A684-4872-BC26-75CED08C3E13</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B581E757-A684-4872-BC26-75CED08C3E13.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Snake project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Snake</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Snake</string>
+			<key>timeStartedRecording</key>
+			<real>674779037.51414502</real>
+			<key>timeStoppedRecording</key>
+			<real>674779038.25499701</real>
+			<key>title</key>
+			<string>Build Snake</string>
+			<key>uniqueIdentifier</key>
+			<string>B581E757-A684-4872-BC26-75CED08C3E13</string>
+		</dict>
 	</dict>
 </dict>
 </plist>

@@ -85,7 +85,7 @@ void Entrada(int &dir, int &fimdojg){
         int BAI = 4;
         
         //transform the characters into integer commands
-        switch (getch()){
+        switch (std::cin.get()){
             case 'w':
                 dir = CIM;
                 break;
