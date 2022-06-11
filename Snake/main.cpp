@@ -1,9 +1,11 @@
+//Copyright 2022 Eyji Cuff
+//Licensed under the Apache License, Version 2.0 (the "License");
+//you may not use this file except in compliance with the License.
 //
 //  main.cpp
 //  Snake
 //
 //  Created by Eyji Koike Cuff on 4/17/22.
-//
 
 #include "Functions.h"
 #define STOP 0
